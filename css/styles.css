@@ -1,0 +1,31 @@
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url("https://scontent-a-sea.xx.fbcdn.net/hphotos-xfp1/t31.0-8/s960x960/901347_603710043022651_1829661605_o.jpg");
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.save-the-date {
+  text-align: center;
+  font-size: 20px;
+}
+
+.save-the-date h2 {
+  color: #EE4000;
+}
+
+.well h2 {
+  color: #EE4000;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.links {
+  font-size: 20px;
+  text-align: center;
+}
